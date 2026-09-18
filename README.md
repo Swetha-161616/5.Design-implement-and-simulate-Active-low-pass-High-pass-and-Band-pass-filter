@@ -75,32 +75,38 @@ Let Ri = Rf = 10 KΩ
 **LPF:**
   **CIRCUIT DIAGRAM**
 
+ <img width="1280" height="841" alt="image" src="https://github.com/user-attachments/assets/4dad6260-2877-48fd-9a2b-5230ba5990d3" />
 
   **MODEL GRAPH:**
+<img width="1280" height="864" alt="image" src="https://github.com/user-attachments/assets/7e67eedb-f8b3-40d4-9760-42b71492efa8" />
 
 
   **TABULATION:**
- 
-
+ <img width="1280" height="1127" alt="image" src="https://github.com/user-attachments/assets/a53aff3c-a9a2-4244-a90d-b6a85d1da769" />
 
 
 **HPF:**
   **CIRCUIT DIAGRAM**
+<img width="1254" height="818" alt="image" src="https://github.com/user-attachments/assets/807c2f5c-f04e-44f3-83a9-9f87dd75fe7a" />
 
 
   **MODEL GRAPH:**
 
+<img width="1280" height="718" alt="image" src="https://github.com/user-attachments/assets/6967a4d9-9cc3-4495-9397-fc605ae2f5ab" />
 
   **TABULATION:**
+<img width="1270" height="1280" alt="image" src="https://github.com/user-attachments/assets/1443bfef-bb1a-444b-b0da-b38fd8845920" />
 
   **BPF:**
   **CIRCUIT DIAGRAM**
 
+<img width="1280" height="667" alt="image" src="https://github.com/user-attachments/assets/f1f4b4f3-b53b-4ff8-b7ec-64a7fd99db59" />
 
   **MODEL GRAPH:**
-
+<img width="1280" height="1011" alt="image" src="https://github.com/user-attachments/assets/65ac94c9-44a0-44ad-a3ce-e1aea32e3f41" />
 
   **TABULATION:**
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/0fb6e2fe-e1b3-4058-ac33-443ea8be938e" />
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
@@ -113,8 +119,8 @@ Let Ri = Rf = 10 KΩ
  
   **LT SPICE**
   **CIRCUIT and Waveform**
-  
 
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/e603b2c9-1bf7-40fa-83e5-129c8fa81364" />
 **RESULT:**
 Thus the Active Low pass, High pass and Band Pass Filters are designed and simulated performance was successfully tested using op-amp IC 741 and LT SPICE.
  
